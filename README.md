@@ -1,3 +1,6 @@
+# Name: S.Tarun Managan
+# PRN: 22070123118
+
 # Exception_Handling
 Exceptions are runtime anomalies or abnormal conditions that a program encounters during its execution. 
 There are two types of exceptions: a)Synchronous, b)Asynchronous (i.e., exceptions which are beyond the program’s control, such as disc failure, keyboard interrupts etc.). C++ provides the following specialized keywords for this purpose:
